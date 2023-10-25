@@ -56,7 +56,7 @@
     "jsonp": "^0.2.1",
     "less": "^2.7.3",
     "less-loader": "^4.1.0",
-    "lodash": "4.17.10",
+    "lodash": "4.17.21",
     "mini-css-extract-plugin": "^0.7.0",
     "moment": "2.22.2",
     "node-sass": "^4.9.0",
